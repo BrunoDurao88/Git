@@ -1,1 +1,3 @@
-Readme no Projeto Git DNC
+Readme no Projeto Git
+
+Ajustando a descrição para fins de Teste
